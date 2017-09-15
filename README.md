@@ -1,4 +1,5 @@
 # myFirstGithub
 this id a my repository.
-ok.
-this ia a test.
+
+
+I love :coffee:,:dancer:,:dog:,:cat:
